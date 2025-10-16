@@ -1,3 +1,5 @@
+This is a fork from evanshunt/lumberjack-sort-and-summary to support SS6
+
 # Lumberjack Sort and Summary
 
 A common use case for [SilverStripe's Lumberjack module](https://github.com/silverstripe/silverstripe-lumberjack) is [the holder/page pattern](https://www.silverstripe.org/learn/lessons/v4/the-holderpage-pattern-1). In this case, the holder page will only have one type of child page.
